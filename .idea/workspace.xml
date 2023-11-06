@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b0c22fa-a306-42ab-96ee-76ba12b61289" name="Changes" comment="bài tập" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Bootcamp Java Fullstack\C1023H1-JV101-NguyenVanHaiNhat\bai_tap\Exercise\code\form" />
+      <recent name="E:\Bootcamp Java Fullstack\C1023H1-JV101-NguyenVanHaiNhat\bai_tap\Exercise\table" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bài tập" />
+    <option name="LAST_COMMIT_MESSAGE" value="bài tập" />
+  </component>
+</project>
