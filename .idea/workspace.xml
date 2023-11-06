@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="288a51a2-1224-4bd2-9cdd-6266f6a43494" name="Changes" comment="bài thực hành">
-      <change afterPath="$PROJECT_DIR$/code/CV.html" afterDir="false" />
+    <list default="true" id="288a51a2-1224-4bd2-9cdd-6266f6a43494" name="Changes" comment="bài tập">
+      <change afterPath="$PROJECT_DIR$/code/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "NguyenVanHaiNhat"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="74067ebf-ce75-4521-b06c-08cfe8dad4b2" />
+        <option name="url" value="https://github.com/NguyenVanHaiNhat/Exercise.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -55,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699235251692</updated>
       <workItem from="1699235253412" duration="559000" />
-      <workItem from="1699236018104" duration="4377000" />
+      <workItem from="1699236018104" duration="10810000" />
     </task>
     <task id="LOCAL-00001" summary="bài thực hành">
       <option name="closed" value="true" />
@@ -81,7 +96,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699240207222</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="bài thực hành">
+      <option name="closed" value="true" />
+      <created>1699241256534</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699241256534</updated>
+    </task>
+    <task id="LOCAL-00005" summary="bài tập">
+      <option name="closed" value="true" />
+      <created>1699241391240</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699241391240</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bài thực hành" />
-    <option name="LAST_COMMIT_MESSAGE" value="bài thực hành" />
+    <MESSAGE value="bài tập" />
+    <option name="LAST_COMMIT_MESSAGE" value="bài tập" />
   </component>
 </project>
